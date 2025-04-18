@@ -7,7 +7,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/BSGS-DLP.git](https://github.com/chamroeunvireakpanha/BabyStepGiantStepAlg)
+    git clone https://github.com/your-username/BSGS-DLP.git
     ```
 
 2. **Compile and run**:
