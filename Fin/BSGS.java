@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class BSGS {
 
-    // Computes the ceiling of the square root of a BigInteger using binary search.
+    // Computes the ceiling of the square root of a BigInteger.
     public static BigInteger bigIntSqRootCeil(BigInteger x) {
         BigInteger left = BigInteger.ZERO;
         BigInteger right = x;
